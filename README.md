@@ -1,5 +1,5 @@
 # Producer Consumer
-`Prodcuer_Consumer` is a simple code for Producer/Consumer problem using multithreading. 
+`Prodcuer_Consumer` is a simple code for Producer/Consumer problem using multithreading.     
 I Added a function that you can set the amount of items you want to produce.
 
 
