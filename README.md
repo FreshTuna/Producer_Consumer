@@ -3,7 +3,7 @@
 I Added a function that you can set the amount of items you want to produce.
 
 
-##Code of Producing thread
+## Code of Producing thread
 ```c
 void *producer(){
     int k;
@@ -20,7 +20,7 @@ void *producer(){
 } 
 ```
 
-##Code of Consuming thread
+## Code of Consuming thread
 
 ```c 
 void *consumer(){
